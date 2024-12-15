@@ -1,1 +1,1 @@
-# AudioWave-Bolt-V1.1
+# AudioWaveV1
